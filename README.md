@@ -1,2 +1,2 @@
 # widget-slider
-Test repository
+simple wordpress widget slider plugin. 
